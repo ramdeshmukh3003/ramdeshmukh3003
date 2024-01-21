@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://camo.githubusercontent.com/2392f4f8f3d9452a3d2f770c0eab182a9f588a157443770089f2b369e942c577/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" width=100%>
+<a href="https://drive.google.com/uc?export=view&id=1nwqH2s5R0fiiX0NTF1UjxEuQWnDJ1ntS"><img src="https://drive.google.com/uc?export=view&id=1nwqH2s5R0fiiX0NTF1UjxEuQWnDJ1ntS" style="width: 100%; height: auto" title="Banner" />
 <h1 align="center">Hi 👋, I'm Ram Deshmukh</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align="center" alt="coding" width=600 height=600
